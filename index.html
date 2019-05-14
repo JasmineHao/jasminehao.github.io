@@ -21,7 +21,7 @@ featured_image: /images/social.jpg
       {% if project.featured_image %}
       <a href="{{ project.url }}" class="listing-post__image" style="background-image: url({{ project.featured_image  }});"></a>
       {% endif %}
-
+       {% include mathjax_support %}
       <div class="listing-post__content">
         <p>{{ project.excerpt }}</p>
         <p><a href="{{ project.url }}" class="button">View Detail</a>
