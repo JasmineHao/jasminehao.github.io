@@ -8,3 +8,5 @@ I'm currently a Ph.D. candidate in Vancouver school of economics. My research in
 I am currently working under the supervision of Professor Hiro Kasahara.
 
 [Curriculum Vitae](/files/CV_updated.pdf)
+
+我是练习时长三年半的练习生，喜欢唱，跳，presentation，dynamic structural models。
