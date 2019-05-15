@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/about</loc>
-<lastmod>2019-05-15T12:16:55-04:00</lastmod>
+<lastmod>2019-05-15T12:19:22-04:00</lastmod>
 </url>
 <url>
 <loc>/contact</loc>
-<lastmod>2019-05-15T12:16:55-04:00</lastmod>
+<lastmod>2019-05-15T12:19:22-04:00</lastmod>
 </url>
 <url>
 <loc>/projects</loc>
-<lastmod>2019-05-15T12:16:55-04:00</lastmod>
+<lastmod>2019-05-15T12:19:22-04:00</lastmod>
 </url>
 <url>
 <loc>/thanks</loc>
-<lastmod>2019-05-15T12:16:55-04:00</lastmod>
+<lastmod>2019-05-15T12:19:22-04:00</lastmod>
 </url>
 <url>
 <loc>/blog/demo-post</loc>
@@ -48,6 +48,10 @@
 <loc>/</loc>
 </url>
 <url>
+<loc>/files/CPSC_542F_Notes.pdf</loc>
+<lastmod>2019-05-15T11:41:06-04:00</lastmod>
+</url>
+<url>
 <loc>/files/CV_updated.pdf</loc>
 <lastmod>2019-03-24T14:24:11-04:00</lastmod>
 </url>
@@ -56,11 +60,7 @@
 <lastmod>2019-05-14T15:06:40-04:00</lastmod>
 </url>
 <url>
-<loc>/files/coursenotes/CPSC_542F_Notes.pdf</loc>
-<lastmod>2019-05-15T11:41:06-04:00</lastmod>
-</url>
-<url>
-<loc>/files/coursenotes/ECON_514_Notes.pdf</loc>
+<loc>/files/ECON_514_Notes.pdf</loc>
 <lastmod>2019-05-15T11:41:06-04:00</lastmod>
 </url>
 <url>
