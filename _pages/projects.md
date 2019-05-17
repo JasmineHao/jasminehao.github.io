@@ -29,6 +29,7 @@ featured_image: /images/demo/demo-landscape.jpg
   * [Aguirregabiria, V., & Magesan, A. (2019). Estimation of dynamic discrete games when players beliefs are not in equilibrium. Manuscript, Department of Economics, Univeristy of Toronto.](https://github.com/JasmineHao/Sandbox/tree/master/Python/AM2019)
   * [Grieco, P. L., & McDevitt, R. C. (2016). Productivity and quality in health care: Evidence from the dialysis industry. The Review of Economic Studies, 84(3), 1071-1105.](https://github.com/JasmineHao/Grieco_McDevitt_2007)
 
+
 ### Note taking
   * [CPSC 542](https://github.com/JasmineHao/JasmineHao.github.io/tree/master/files/CPSC_542F_Notes.pdf)
   * [ECON 514](https://github.com/JasmineHao/JasmineHao.github.io/tree/master/files/ECON_514_Notes.pdf)
