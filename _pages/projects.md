@@ -14,8 +14,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### Teaching assistant
 * [ECON 628](https://github.com/ubcecon/ECON628_2018)  
-<!-- [web-scraping tutorial](https://github.com/ubcecon/web-scraping-with-R) -->
-* [Help build online julia notebook](https://vse.syzygy.ca/)
+  * [web-scraping tutorial](https://github.com/ubcecon/web-scraping-with-R)
+  * [Help build online julia notebook](https://vse.syzygy.ca/)
 * ECON 301
 
 ### Package under development
@@ -30,7 +30,7 @@ featured_image: /images/demo/demo-landscape.jpg
   - [Estimation of non-finite dependent dynamic discrete choice model with unobserved heterogeneity](https://github.com/JasmineHao/DDCMixture_NFD)
 
 ### Replication
-  * [Aguirregabiria, V., & Magesan, A. (2009). Estimation of dynamic discrete games when players beliefs are not in equilibrium. Manuscript, Department of Economics, Univeristy of Toronto.](/files/AM2019/)
+  * [Aguirregabiria, V., & Magesan, A. (2019). Estimation of dynamic discrete games when players beliefs are not in equilibrium. Manuscript, Department of Economics, Univeristy of Toronto.](https://github.com/JasmineHao/Sandbox/tree/master/Python/AM2019)
   * [Grieco, P. L., & McDevitt, R. C. (2016). Productivity and quality in health care: Evidence from the dialysis industry. The Review of Economic Studies, 84(3), 1071-1105.](https://github.com/JasmineHao/Grieco_McDevitt_2007)
 ### Note taking
   * [CPSC 542](/files/CPSC_542F_Notes.pdf)
