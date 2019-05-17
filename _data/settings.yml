@@ -1,6 +1,7 @@
 basic_settings:
   site_title: Jasmine Hao
   site_tagline: Ph.D candidate, Vancouver School of Economics
+  site_emailto:  'haojasmine@gmail.com'
   favicon_image: /images/favicon.png
 
 # markdown: kramdown
@@ -17,12 +18,14 @@ menu_settings:
       url: '/'
     - title: 'Other Projects'
       url: '/projects'
+    - title: 'Side Projects'
+      url: '/other'
     - title: 'About'
       url: '/about'
     - title: 'Thanks'
       url: '/thanks'
     # - title: 'Contact'
-    #   url: '/contact'
+      # url: '/contact'
 
 grid_settings:
   grid_spacing: 10
