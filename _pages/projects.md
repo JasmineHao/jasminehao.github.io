@@ -18,7 +18,7 @@ featured_image: /images/demo/demo-landscape.jpg
 - [Help build online julia notebook](https://vse.syzygy.ca/)
 * ECON 301
 
-### Package under development
+### Package Under Development
 
 - [Nonparametric Econometric Tool[Julia]](https://github.com/JasmineHao/NonparEconometricsTool.jl)
 - [Estimation of dynamic model with continuous and discrete choice[R]](https://github.com/JasmineHao/DCDC.jl)
@@ -30,7 +30,7 @@ featured_image: /images/demo/demo-landscape.jpg
   * [Grieco, P. L., & McDevitt, R. C. (2016). Productivity and quality in health care: Evidence from the dialysis industry. The Review of Economic Studies, 84(3), 1071-1105.](https://github.com/JasmineHao/Grieco_McDevitt_2007)
 
 
-### Note taking
+### Note-taking
   * [CPSC 542](https://github.com/JasmineHao/JasmineHao.github.io/tree/master/files/CPSC_542F_Notes.pdf)
   * [ECON 514](https://github.com/JasmineHao/JasmineHao.github.io/tree/master/files/ECON_514_Notes.pdf)
   * [ECON 628](https://github.com/JasmineHao/ECON628)
