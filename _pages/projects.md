@@ -12,7 +12,7 @@ featured_image: /images/demo/demo-landscape.jpg
 * Dynamic Problem with Continuous-Discrete Mix Choice
 * Dynamic Game of Price Regime:  A Case Study of ChileanChain Drugstores
 
-### Teaching assistant
+### Teaching Assistant
 * [ECON 628](https://github.com/ubcecon/ECON628_2018)
 - [web-scraping tutorial](https://github.com/ubcecon/web-scraping-with-R)  
 - [Help build online julia notebook](https://vse.syzygy.ca/)
