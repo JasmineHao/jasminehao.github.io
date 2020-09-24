@@ -1,14 +1,12 @@
 ---
 title: About Me
-description: 
+description: I'm a Ph.D. candidate in economics.
 subtitle:
 featured_image: /images/social.jpg
 ---
-I am a job market candidate at the Vancouver School of Economics,
-the University of British Columbia. My research interest includes topics on dynamic
-structural models in oligopolistic competition, biased belief in dynamic
-games, agents' choice models and finite mixture models.
+I'm currently a Ph.D. candidate in Vancouver school of economics. My research interest is in dynamic structural models and industrial organization.
+I am currently working under the supervision of Professor Hiro Kasahara.
 
-[Curriculum Vitae](/files/ResumeHao.pdf)
+[Curriculum Vitae](/files/CV_updated.pdf)
 
-[Research Statement](/files/ResearchStatementHao.pdf)
+我是练习时长三年半的练习生，喜欢唱，跳，presentation，dynamic structural models。
