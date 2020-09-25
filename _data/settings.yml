@@ -8,7 +8,7 @@ basic_settings:
 markdown: maruku
 
 header_settings:
-  avatar_image: /images/headshot_casual.png
+  avatar_image: /images/favicon.png
   logo_image:
   logo_width: 100
 
@@ -18,7 +18,7 @@ menu_settings:
       url: '/'
     - title: 'Research'
       url: '/research'
-    - title: 'teaching'
+    - title: 'Teaching'
       url: '/teaching'
     - title: 'C.V.'
       url: '/cv'
@@ -89,7 +89,7 @@ color_settings:
   # overlay_text_color: '#DCD0C0'
   # error_color: '#D64541'
 
-  background_color: '#f5f0ed'
+  background_color: '#EDDCD2'
   background_alt_color: '#EDC787'
   text_dark_color: '#373737'
   text_medium_color: '#5B5B5B'
@@ -105,20 +105,23 @@ font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
   # title_font: '"Nunito", sans-serif'
   # body_font: '"Nunito", sans-serif'
-  title_font: '"Arial", serif'
-  body_font: '"Arial", serif'
+  title_font: '"Georgia", serif'
+  body_font: '"Georgia", serif'
+  
+  # title_font: '"Arial", serif'
+  # body_font: '"Arial", serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 22
-    medium_size: 27
-    large_size: 35
+    small_size: 18
+    medium_size: 19
+    large_size: 20
     weight: 600
     letter_spacing: 0
   site_tagline:
-    small_size: 11
+    small_size: 12
     medium_size: 13
-    large_size: 15
+    large_size: 14
     weight: 400
     letter_spacing: 0
     line_height: 1.5
@@ -129,60 +132,61 @@ font_settings:
     weight: 600
     letter_spacing: 0
   h1:
-    small_size: 14
-    medium_size: 15
-    large_size: 16
+    small_size: 16
+    medium_size: 17
+    large_size: 18
     weight: 600
     letter_spacing: -0.02
     line_height: 1.2
   h2:
-    small_size: 13
-    medium_size: 14
-    large_size: 15
+    small_size: 16
+    medium_size: 17
+    large_size: 18
     weight: 600
     letter_spacing: 0
     line_height: 1.5
   h3:
-    small_size: 13
-    medium_size: 14
-    large_size: 15
+    small_size: 14
+    medium_size: 15
+    large_size: 16
     weight: 500
     letter_spacing: 0
     line_height: 1.5
   h4:
+    small_size: 14
+    medium_size: 15
+    large_size: 16
+    weight: 200
+    letter_spacing: 0
+    line_height: 1.6
+  h5:
     small_size: 12
     medium_size: 13
     large_size: 14
     weight: 400
     letter_spacing: 0
     line_height: 1.6
-  h5:
-    small_size: 11
-    medium_size: 12
-    large_size: 13
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
   h6:
-    small_size: 10
-    medium_size: 11
-    large_size: 12
-    weight: 400
+    small_size: 12
+    medium_size: 13
+    large_size: 14
+    weight: 300
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 8
-    medium_size: 9
-    large_size: 10
+    small_size: 12
+    medium_size: 13
+    large_size: 14
     weight: 200
     letter_spacing: 0
     line_height: 1.6
+  
   blockquote:
     small_size: 20
     medium_size: 30
     large_size: 40
     weight: 300
-    letter_spacing: -0.02
+    letter_spacing: 0
     line_height: 1.6
   buttons:
     weight: 600

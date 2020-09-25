@@ -9,6 +9,6 @@ featured_image: /images/social.jpg
 
 
 
-My Resume can be found here:  [Curriculum Vitae](/files/ResumeHao.pdf)
+My **Resume** can be found [here](/files/ResumeHao.pdf).
 
-My research statement can be found: [Research Statement](/files/ResearchStatementHao.pdf).
+My **Research Statement** can be found [here](/files/ResearchStatementHao.pdf).

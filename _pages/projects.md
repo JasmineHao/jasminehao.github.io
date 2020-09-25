@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 * ECON 628 [coursenotes](https://github.com/ubcecon/ECON628_2018)
 - [web-scraping tutorial](https://github.com/ubcecon/web-scraping-with-R)  
 - Help build online julia notebook[(vse.syzygy.ca)](https://vse.syzygy.ca/)
-* ECON 301
+
 
 ### Package Under Development
 
