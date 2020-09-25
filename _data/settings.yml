@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Jasmine Hao
+  site_emailto:  'yu.hao@alumni.ubc.ca'
   site_tagline: Ph.D candidate, Vancouver School of Economics
-  site_emailto:  'haojasmine@gmail.com'
   favicon_image: /images/favicon.png
 
 # markdown: kramdown
@@ -14,16 +14,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Working Projects'
-      url: '/'
-    - title: 'Other Projects'
-      url: '/projects'
-    - title: 'Side Projects'
-      url: '/other'
     - title: 'About'
-      url: '/about'
-    - title: 'Thanks'
-      url: '/thanks'
+      url: '/'
+    - title: 'Research'
+      url: '/research'
+    - title: 'Other'
+      url: '/projects'
+    # - title: 'Thanks'
+    #   url: '/thanks'
     # - title: 'Contact'
       # url: '/contact'
 
@@ -76,13 +74,24 @@ color_settings:
   # overlay_text_color: '#ffffff'
   # error_color: '#D64541'
 
-  background_color: '#F4F4F4'
-  background_alt_color: '#C0B283'
+  # background_color: '#EDDCD2'
+  # background_alt_color: '#CB997E'
+  # text_dark_color: '#373737'
+  # text_medium_color: '#5B5B5B'
+  # text_light_color: '#878787'
+  # accent_color: '#A5A58D'
+  # border_color: '#B7B7A4'
+  # overlay_background_color: '#161B21'
+  # overlay_text_color: '#DCD0C0'
+  # error_color: '#D64541'
+
+  background_color: '#f5f0ed'
+  background_alt_color: '#EDC787'
   text_dark_color: '#373737'
   text_medium_color: '#5B5B5B'
-  text_light_color: '#878787'
-  accent_color: '#C0B283'
-  border_color: '#f7d7b6'
+  text_light_color: '#123C69'
+  accent_color: '#BAB285'
+  border_color: '#BAB285'
   overlay_background_color: '#161B21'
   overlay_text_color: '#DCD0C0'
   error_color: '#D64541'
@@ -116,52 +125,52 @@ font_settings:
     weight: 600
     letter_spacing: 0
   h1:
-    small_size: 22
-    medium_size: 33
-    large_size: 45
+    small_size: 14
+    medium_size: 15
+    large_size: 16
     weight: 600
     letter_spacing: -0.02
     line_height: 1.2
   h2:
-    small_size: 17
-    medium_size: 33
-    large_size: 45
+    small_size: 13
+    medium_size: 14
+    large_size: 15
     weight: 600
-    letter_spacing: -0.02
-    line_height: 1.2
+    letter_spacing: 0
+    line_height: 1.5
   h3:
-    small_size: 17
-    medium_size: 20
-    large_size: 25
-    weight: 400
-    letter_spacing: -0.02
-    line_height: 1.3
+    small_size: 13
+    medium_size: 14
+    large_size: 15
+    weight: 500
+    letter_spacing: 0
+    line_height: 1.5
   h4:
     small_size: 12
-    medium_size: 17
-    large_size: 17
+    medium_size: 13
+    large_size: 14
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   h5:
-    small_size: 12
-    medium_size: 15
-    large_size: 15
+    small_size: 11
+    medium_size: 12
+    large_size: 13
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   h6:
-    small_size: 12
-    medium_size: 15
-    large_size: 15
+    small_size: 10
+    medium_size: 11
+    large_size: 12
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 12
-    medium_size: 14
-    large_size: 17
-    weight: 400
+    small_size: 8
+    medium_size: 9
+    large_size: 10
+    weight: 200
     letter_spacing: 0
     line_height: 1.6
   blockquote:

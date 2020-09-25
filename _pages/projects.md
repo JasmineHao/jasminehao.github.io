@@ -1,18 +1,13 @@
 ---
-title: Work in progress
-subtitle: and all the other research interests.
+title: Other
+subtitle: 
 description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->
 
-### Other Projects
-
-* Dynamic Problem with Continuous-Discrete Mix Choice
-* Dynamic Game of Price Regime:  A Case Study of ChileanChain Drugstores
-
-### Teaching Assistant
+### Teaching
 * ECON 628 [coursenotes](https://github.com/ubcecon/ECON628_2018)
 - [web-scraping tutorial](https://github.com/ubcecon/web-scraping-with-R)  
 - Help build online julia notebook[(vse.syzygy.ca)](https://vse.syzygy.ca/)
