@@ -21,6 +21,6 @@ featured_image: /images/demo/demo-landscape.jpg
 ### Package Under Development
 
 - [Nonparametric Econometric Tool[Julia]](https://github.com/JasmineHao/NonparEconometricsTool.jl)
-- [Estimation of dynamic model with continuous and discrete choice[R]](https://github.com/JasmineHao/DCDC.jl)
+- [Estimation of dynamic model with continuous   and discrete choice[R]](https://github.com/JasmineHao/DCDC.jl)
 - [Testing of number of component in panel normal regression[R]](https://github.com/JasmineHao/normalRegPanelMix)
 - [Estimation of non-finite dependent dynamic discrete choice model with unobserved heterogeneity[Matlab]](https://github.com/JasmineHao/DDCMixture_NFD)
