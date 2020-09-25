@@ -8,6 +8,10 @@ order: 1
 ---
 
 
+<a href="/" class="header__avatar">
+      <img src="/images/headshot_casual.png" width="400"/>
+    </a>
+
 I am a job market candidate at the Vancouver School of Economics,
 the University of British Columbia. 
 My research interests are in Industrial Organization and Econometrics. 

@@ -1,5 +1,5 @@
 ---
-title: Thank you
+title: 
 subtitle: For visiting my website.
 description: A thank you page.
 featured_image: /images/demo/demo-landscape.jpg
