@@ -32,6 +32,8 @@ Vancouver School of Economics.
 [Slides](/files/Collusion_BOC2020.pdf)
 [Draft Paper](/files/CollusionDynamic.pdf)
 
+<br />
+
 ### **Using Euler equation to estimate non-finite-dependent dynamic discrete choice model with unobserved heterogeneity**(with [Hiro Kasahara](https://economics.ubc.ca/faculty-and-staff/hiro-kasahara/))
 
 
@@ -40,14 +42,13 @@ In the dynamic discrete choice analysis, controlling for unobserved heterogeneit
 {% endcapture %}
 {% capture summary %}<span style="text-decoration: underline">**Abstract**</span>{% endcapture %}{% include details.html %}
 
-
-
 <span style="text-decoration: underline">**Presentation**</span>: Canadian Economics Association 2019 Annual Meeting; 
 Bank of Canada; 
 Vancouver School of Economics.
 
 [Slides](/files/DDC_CEA2019.pdf)
 
+<br />
 
 ### **Testing the number of components in finite mixture model with normal panel regression**(with [Hiro Kasahara](https://economics.ubc.ca/faculty-and-staff/hiro-kasahara/))
 
@@ -77,6 +78,7 @@ The decision of entry is discrete, and the decision of investment is continuous.
 {% endcapture %}
 {% capture summary %}<span style="text-decoration: underline">**Abstract**</span>{% endcapture %}{% include details.html %}
 
+<br />
 
 ### **Does the EV rebate program raise awareness on the environment: evidence based on China automobile market** (with [Yiran Hao](https://www.economics.utoronto.ca/index.php/index/person/person/faculty/1895))
 

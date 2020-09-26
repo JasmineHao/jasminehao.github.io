@@ -21,3 +21,10 @@ The findings are useful for competition policy intervention targeting firms' coo
 
 I will be available for interviews at the 2020 CEEE meeting, the 2020 EEA meeting, the 2020 CICE meeting and the 2021 ASSA/AEA meeting. I expect to graduate in 2021.
 
+
+## Contact Information
+**Email**: yu.hao@alumni.ubc.ca
+
+**Phone**: (+1)-778-865-8573
+
+

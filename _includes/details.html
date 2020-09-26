@@ -1,10 +1,9 @@
 
-<details>    
-    <summary>
-        <div class="page">
-            {{ summary | markdownify }} 
-        </div>
+<details class="page">    
+    <summary class="page"> {{ summary | markdownify  }}
     </summary>
-    {{ details | markdownify }}
+    <div class="page">
+        {{ details | markdownify }}
+    </div>
 </details>
 

@@ -24,19 +24,15 @@ $brand-color:        #757575;
 
 details {
  	position: relative;
-
 }
 details[open] {
 	position: relative;
-
 }
 summary {
 	position: relative;
-	
 }
 details summary {
 	color: $brand-color;
-
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -325,7 +321,7 @@ hr {
 	display: none;
 }
 
-.page {
+.page {	
 	@include transition(all 0.6s cubic-bezier(.87,-.41,.19,1.44));
 }
 
@@ -420,9 +416,9 @@ section {
 
 .wrap {
 	position: relative;
-	margin: 0 auto;
-	padding: 0 20px;
-
+	margin: 20 auto;
+	padding: 20 20px;
+	
 	@include mq(tabletp) {
 		padding: 0 80px;
 	}

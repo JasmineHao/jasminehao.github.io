@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Jasmine Hao
-  site_emailto:  'yu.hao@alumni.ubc.ca'
+  site_emailto:  ''
   site_tagline: Ph.D candidate, Vancouver School of Economics
   favicon_image: /images/favicon.png
 
@@ -24,10 +24,9 @@ menu_settings:
       url: '/cv'
     - title: 'BLOG'
       url: '/projects'
-    # - title: 'Thanks'
-    #   url: '/thanks'
-    # - title: 'Contact'
-      # url: '/contact'
+    - title: 'THANKS'
+      url: '/thanks'
+    
 
 grid_settings:
   grid_spacing: 10
@@ -42,7 +41,6 @@ social_settings:
   facebook_url: 'https://www.facebook.com/jasmine.hao'
   twitter_url: 'https://twitter.com/JasmineHao2'
   instagram_url: 'https://www.instagram.com/jasminefish000/'
-  mendeley_url: 'https://www.mendeley.com/profiles/jasmine-hao'
   github_url: 'https://github.com/JasmineHao'
   reddit_url: 'https://www.reddit.com/user/jasminefish000'
   linkedin_url: 'https://www.linkedin.com/in/jasminehao/'
