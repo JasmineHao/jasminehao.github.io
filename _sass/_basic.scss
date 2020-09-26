@@ -4,8 +4,45 @@
 
 // - - - - - - - - - - - - - - - - - -
 
+// Details
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
+// - - - - - - - - - - - - - - - - - -
+
+details > summary {
+list-style: none;
+}
+details > summary::-webkit-details-marker {
+display: none;
+}
+
+//
+// <details> tag
+//
+$grey-color:         #757575;
+$grey-color-darkish: darken($grey-color, 15%);
+$brand-color:        #757575;
+$details-background-color: #DCD0C0;
+
+details {
+ 	position: relative;
+
+}
+details[open] {
+    background: $details-background-color;
+	position: relative;
+
+}
+summary {
+	position: relative;
+	
+}
+details summary {
+	color: $brand-color;
+
+}
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Basics
 
 html, body {
 	height: 100%;

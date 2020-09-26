@@ -130,7 +130,7 @@ font_settings:
     small_size: 14
     medium_size: 15
     large_size: 16
-    weight: 500
+    weight: 200
     letter_spacing: 0
     line_height: 1.5
   h4:
