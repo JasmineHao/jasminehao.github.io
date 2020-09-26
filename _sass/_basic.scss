@@ -21,14 +21,12 @@ display: none;
 $grey-color:         #757575;
 $grey-color-darkish: darken($grey-color, 15%);
 $brand-color:        #757575;
-$details-background-color: #DCD0C0;
 
 details {
  	position: relative;
 
 }
 details[open] {
-    background: $details-background-color;
 	position: relative;
 
 }
