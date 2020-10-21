@@ -24,8 +24,6 @@ menu_settings:
       url: '/cv'
     - title: 'BLOG'
       url: '/projects'
-    - title: 'THANKS'
-      url: '/thanks'
     
 
 grid_settings:
