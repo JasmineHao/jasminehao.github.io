@@ -45,6 +45,7 @@ In the dynamic discrete choice analysis, controlling for unobserved heterogeneit
 <span style="text-decoration: underline">**Presentation**</span>: Canadian Economics Association 2019 Annual Meeting; Seattle-Vancouver Econometrics Conference 2020; Bank of Canada; Vancouver School of Economics.
 
 [Slides](/files/DDC_CEA2019.pdf)
+[Draft Paper](/files/DDCMain.pdf)
 
 <br />
 
@@ -63,7 +64,7 @@ This paper develops the likelihood-ratio based test of the null hypothesis of a 
  Vancouver School of Economics.
 
 [Slides](/files/IAAE_2019.pdf)
-
+[Draft Paper](/files/NumComponentPanelMain.pdf)
 
 ## Work in Progress
 
