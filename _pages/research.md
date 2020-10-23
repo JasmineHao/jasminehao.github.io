@@ -22,7 +22,7 @@ Identifying the belief parameters relies on two exclusion restrictions:
 (2) The profits on a given market are not affected by the market outcomes in other markets. The framework with nonequilibrium belief represents the data observed better than the rational expectation model.
 
 
-<span style="text-decoration: underline">**Award**</span>: Bank of Canada Graduate Student Paper Award
+<span style="text-decoration: underline">**Award**</span>: [Bank of Canada Graduate Student Paper Award 2020](https://economics.ubc.ca/news/2020/vse-phd-students-paper-wins-top-prize-from-bank-of-canada/#.X5L9TYj0n-g)
 
 <span style="text-decoration: underline">**Presentation**</span>: Bank of Canada Graduate Student Paper Award Workshop; 
 Vancouver School of Economics.
@@ -42,9 +42,7 @@ In the dynamic discrete choice analysis, controlling for unobserved heterogeneit
 {% endcapture %}
 {% capture summary %}<span style="text-decoration: underline">**Abstract**</span>{% endcapture %}{% include details.html %}
 
-<span style="text-decoration: underline">**Presentation**</span>: Canadian Economics Association 2019 Annual Meeting; 
-Bank of Canada; 
-Vancouver School of Economics.
+<span style="text-decoration: underline">**Presentation**</span>: Canadian Economics Association 2019 Annual Meeting; Seattle-Vancouver Econometrics Conference 2020; Bank of Canada; Vancouver School of Economics.
 
 [Slides](/files/DDC_CEA2019.pdf)
 
