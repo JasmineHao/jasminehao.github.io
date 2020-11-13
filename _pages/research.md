@@ -24,7 +24,7 @@ Identifying the belief parameters relies on two exclusion restrictions:
 
 <span style="text-decoration: underline">**Award**</span>: [Bank of Canada Graduate Student Paper Award 2020](https://economics.ubc.ca/news/2020/vse-phd-students-paper-wins-top-prize-from-bank-of-canada/#.X5L9TYj0n-g)
 
-<span style="text-decoration: underline">**Presentation**</span>: Bank of Canada Graduate Student Paper Award Workshop; 
+<span style="text-decoration: underline">**Presentation**</span>: WEAI International Conference 2021(scheduled); Bank of Canada Graduate Student Paper Award Workshop 2020; 
 Vancouver School of Economics.
 
 
