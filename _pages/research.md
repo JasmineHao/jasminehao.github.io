@@ -29,7 +29,7 @@ Vancouver School of Economics.
 
 
 
-[Slides](/files/Collusion_BOC2020.pdf)
+[Slides](/files/CollusionSeminar.pdf)
 [Draft Paper](/files/CollusionDynamic.pdf)
 
 <br />
